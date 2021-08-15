@@ -104,7 +104,7 @@ Please [make an issue](https://github.com/xiaolongw1223/2020-GP-recovering-spars
 
 If you use script in your work, please cite:
 
-This article has been accepted for publication and undergone full peer review but has not been through the copyediting, typesetting, pagination and proofreading process, which may lead to differences between this version and the Version of Record. Please cite this article as https://doi.org/10.1111/1365-2478.13063
+Sun, J. and Wei, X., 2021. Research Note: Recovering sparse models in 3D potential‐field inversion without bound dependence or staircasing problems using a mixed Lp norm regularization. Geophysical Prospecting, 69(4), pp.901-910. [click here](https://doi.org/10.1111/1365-2478.13063)
 
 Cockett, Rowan, Seogi Kang, Lindsey J. Heagy, Adam Pidlisecky, and Douglas W. Oldenburg. "SimPEG: An Open Source Framework for Simulation and Gradient Based Parameter Estimation in Geophysical Applications" Computers & Geosciences, September 2015. https://doi.org/10.1016/j.cageo.2015.09.015.
 
