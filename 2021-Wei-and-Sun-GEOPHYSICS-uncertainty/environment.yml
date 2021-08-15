@@ -1,0 +1,14 @@
+name: uncertainty
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy=1.18.5=py38h1da2735_0
+  - numpy-base=1.18.5=py38h3304bdc_0
+  - scipy=1.5.0=py38hbab996c_0
+  - simpeg=0.14.3=pyhd3deb0d_0
+  - pip:
+    - discretize==0.7.0
+    - matplotlib==3.4.2
+prefix: /opt/anaconda3
