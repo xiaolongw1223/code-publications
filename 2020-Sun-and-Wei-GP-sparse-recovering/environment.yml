@@ -1,0 +1,10 @@
+name: sparse-environment
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - scipy==1.5.0
+  - numpy==1.18.5
+  - matplotlib==3.2.2
+  - SimPEG==0.14.3

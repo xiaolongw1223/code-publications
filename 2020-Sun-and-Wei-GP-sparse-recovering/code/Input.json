@@ -1,0 +1,14 @@
+{
+		"data_file": "gzz.obs",
+		"mesh_file": "mesh.txt",
+		"example": "spheric",
+		"topography": "topo.topo",
+		"lower_bound": -1,
+		"upper_bound": 1,
+		"norm_p": 0,
+		"norm_q": 2,
+		"alpha_s": 0.2,
+		"alpha_x": 1,
+		"alpha_y": 1,
+		"alpha_z": 1
+}
