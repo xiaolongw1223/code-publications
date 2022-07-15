@@ -1,0 +1,14 @@
+{
+		"gravity_data_file": "gzz_p4.txt",
+		"magnetic_data_file": "tmi_p4.txt",
+		"mesh_file": "mesh_p4.txt",
+		"mesh_file_rm": "mesh_p4_rm.txt",
+		"topography": "topo.txt",
+		"norm_p": 0.25,
+		"norm_q": 2,
+		"alpha_s": 0.03,
+		"alpha_x": 1,
+		"alpha_y": 1,
+		"alpha_z": 1,
+		"lambda": 1e+11
+}
